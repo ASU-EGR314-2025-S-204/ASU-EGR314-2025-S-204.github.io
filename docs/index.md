@@ -1,23 +1,27 @@
 ---
-title: Project Name
+title: Welcome
 tags:
 - tag1
 - tag2
 ---
 
-## Team 204
+## "Project Name"
 
-### Team members
+### Team 204
+
+#### Team members
+
  - Andrey Podoprigora
  - Divine Ndionyenma
  - Jacob Wilson
  - Jake Strube
 
-
-Created: 1/16/2025
+Arizona State University
 
 Spring 2025
 
-Arizona State University
 EGR 314
+
 Professor Daniel Aukes
+
+Created: 1/16/2025
