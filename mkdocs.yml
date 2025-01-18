@@ -4,9 +4,12 @@ repo_url: https://github.com/embedded-systems-design/template_report
 edit_uri: edit/main/docs/
 
 nav:
-  - 'index.md'
-  - 'Team_Organization'
-  - 'appendix.md'
+  - index.md
+  - Team Organization:
+    - Team_Organization/index.md
+    - teamcharter.md
+    - Product_Mission_Statement.md
+  - appendix.md
 
 theme:
   name: material
