@@ -5,8 +5,8 @@ edit_uri: edit/main/docs/
 
 nav:
   - 'index.md'
-  - '/Team_Organization/index.md'
-  - 'about.md'
+  - 'Team_Organization'
+  - 'appendix.md'
 
 theme:
   name: material
