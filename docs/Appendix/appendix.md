@@ -15,4 +15,4 @@ Jake Strube | Discord | Phone
 Communication Procedures :
 -------------------------
 1. Team 204 will engage in frequent messaging and constant updates to keep on track towards the Innovation Showcase deadline.  
-2. Team 204 will also handle instructor correspondence by keeping all group members up-to-date on any correspondence that occurs.
+2. Team 204 will also handle instructor correspondence by keeping all group members up-to-date on any correspondence and updates that occurs.
