@@ -7,8 +7,8 @@ nav:
   - index.md
   - Team Organization:
     - Team_Organization/index.md
-    - teamcharter.md
-    - Product_Mission_Statement.md
+    - Team Charter: teamcharter.md
+    - Product Mission Statement: Product_Mission_Statement.md
   - appendix.md
 
 theme:
