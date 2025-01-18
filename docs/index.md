@@ -7,16 +7,17 @@ tags:
 
 ## "Project Name"
 
-### Team 204
 
-### Team members
+## Team 204
+
+## Team members
 
  - Andrey Podoprigora
  - Divine Ndionyenma
  - Jacob Wilson
  - Jake Strube
 
-### Organizational info
+## Organizational info
 Arizona State University
 
 Spring 2025
