@@ -1,5 +1,5 @@
 ---
-title: This is the index to our report
+title: Team organization
 ---
 
 Things to discuss
