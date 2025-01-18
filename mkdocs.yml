@@ -1,4 +1,11 @@
 site_name: EGR314 Report Template
+docs_dir: docs
+
+pages:
+* Home page: index.md
+* Team Organization: Team_Organization/index.md
+* Appendix: appendix.md
+
 site_url: https://embedded-systems-design.github.io/template_report
 repo_url: https://github.com/embedded-systems-design/template_report
 edit_uri: edit/main/docs/
