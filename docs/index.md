@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: Home page
 tags:
 - tag1
 - tag2
@@ -9,13 +9,14 @@ tags:
 
 ### Team 204
 
-#### Team members
+### Team members
 
  - Andrey Podoprigora
  - Divine Ndionyenma
  - Jacob Wilson
  - Jake Strube
 
+### Organizational info
 Arizona State University
 
 Spring 2025
