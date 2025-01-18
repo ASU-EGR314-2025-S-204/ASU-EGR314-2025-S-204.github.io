@@ -1,5 +1,5 @@
 ---
-title: Second Page
+title: Appendix
 ---
 
 Things to discuss
