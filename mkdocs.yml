@@ -13,6 +13,10 @@ nav:
     - Concept_Ideation/index.md
     - Articles: Concept_Ideation/Articles.md
     - Product Overview: Concept_Ideation/Productoverview.md
+    - Product Concept Images: Product_Concept_Brainstorming/index.md
+      - Raw Design Concepts: Product_Concept_Brainstorming/RawDesignConc.md
+      - Sorting and Ranking Project Concepts: Product_Concept_Brainstorming/SortRank.md
+      - Final Concept Selection: Product_Concept_Brainstorming/FnlSelection.md
     - Presentation Video: Concept_Ideation/PresentationVideo.md
   - appendix.md
   
@@ -81,4 +85,4 @@ extra:
   social:
     - icon: fontawesome/regular/file-code
       link: /2023_fall
-      name: 2023 Site    
+      name: 2023 Sit
