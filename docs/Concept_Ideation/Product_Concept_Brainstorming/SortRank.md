@@ -8,4 +8,4 @@ On this page you can see the results of processing the array of concepts present
 
 ![diagram_01_02](..//02_02.png "Concept set #2")
 
-![diagram_01_02](..//02_02.png "Concept set #3")
+![diagram_01_02](..//02_03.png "Concept set #3")
