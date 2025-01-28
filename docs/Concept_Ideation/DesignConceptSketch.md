@@ -2,6 +2,7 @@
 title: Design Concept Sketches
 ---
 
+### Pictures illustrating the selected design concept
 
 ![diagram_01_01](Bobotishe_01.png "Concept set #1")
 
