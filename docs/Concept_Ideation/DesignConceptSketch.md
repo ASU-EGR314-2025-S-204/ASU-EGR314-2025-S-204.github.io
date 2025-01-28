@@ -10,11 +10,11 @@ title: Design Concept Sketches
 
 ![diagram_01_02](Bobotishe_03.png "Concept set #3")
 
-![diagram_02_01](TopDemo_01.png "wow!")
+![diagram_02_01](TopDemo_01.jpg "wow!")
 
-![diagram_02_02](TopDemo_02.png "wow!")
+![diagram_02_02](TopDemo_02.jpg "wow!")
 
-![diagram_02_03](TopDemo_03.png "wow!")
+![diagram_02_03](TopDemo_03.jpg "wow!")
 
-![diagram_02_04](TopDemo_04.png "wow!")
+![diagram_02_04](TopDemo_04.jpg "wow!")
 
