@@ -26,4 +26,11 @@ EGR 314
 
 Professor Daniel Aukes
 
+## Documentation
+
+- [Team Orgnaization](Team_Organization)
+- [Ideation and Concept Generation](Concept_Ideation)
+
+
+
 Created: 1/16/2025
