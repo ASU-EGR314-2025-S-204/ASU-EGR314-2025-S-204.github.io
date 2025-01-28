@@ -1,6 +1,6 @@
 site_name: EGR314 Team 204 Website 
-site_url: https://embedded-systems-design.github.io/template_report
-repo_url: https://github.com/embedded-systems-design/template_report
+site_url: https://asu-egr314-2025-s-204.github.io/
+repo_url: https://github.com/ASU-EGR314-2025-S-204/ASU-EGR314-2025-S-204.github.io
 edit_uri: edit/main/docs/
 
 nav:
@@ -9,7 +9,12 @@ nav:
     - Team_Organization/index.md
     - Team Charter: Team_Organization/teamcharter.md
     - Product Mission Statement: Team_Organization/Product_Mission_Statement.md
+  - Product Concept Ideation:
+    - Concept_Ideation/index.md
+    - Articles: Concept_Ideation/Articles.md
+    - Product Overview: Concept_Ideation/Productoverview.md
   - appendix.md
+  
 
 theme:
   name: material
@@ -68,7 +73,7 @@ extra_javascript:
 not_in_nav: |
   static
   
-copyright: "Copyright &copy; 2024 team-name-here"
+copyright: "Copyright &copy; 2025 Team 204"
 
 extra:
   generator: false
