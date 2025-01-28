@@ -5,6 +5,8 @@ edit_uri: edit/main/docs/
 
 nav:
   - index.md
+    - Team Orgnaization: Team_Organization/index.md
+    - Product Concept Ideation: Concept_Ideation/index.md
   - Team Organization:
     - Team_Organization/index.md
     - Team Charter: Team_Organization/teamcharter.md
