@@ -3,22 +3,6 @@ site_url: https://asu-egr314-2025-s-204.github.io/
 repo_url: https://github.com/ASU-EGR314-2025-S-204/ASU-EGR314-2025-S-204.github.io
 edit_uri: edit/main/docs/
 
-nav:
-  - index.md
-  - Team Organization:
-    - Team_Organization/index.md
-    - Team Charter: Team_Organization/teamcharter.md
-    - Product Mission Statement: Team_Organization/Product_Mission_Statement.md
-  - Ideation and Concept Generation:
-    - Concept_Ideation/index.md
-    - Articles: Concept_Ideation/Articles.md
-    - Product Concepts Brainstorming: Concept_Ideation/ProductConceptsBrainstorming.md
-    - Product Overview: Concept_Ideation/Productoverview.md
-    - Concept Design Sketches: Concept_Ideation/DesignConceptSketch.md
-    - Presentation Video: Concept_Ideation/PresentationVideo.md
-  - appendix.md
-  
-
 theme:
   name: material
   custom_dir: custom_theme/
