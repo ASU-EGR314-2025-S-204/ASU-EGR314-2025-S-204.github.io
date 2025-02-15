@@ -1,5 +1,0 @@
----
-title: Message Types
----
-
-## Overview
