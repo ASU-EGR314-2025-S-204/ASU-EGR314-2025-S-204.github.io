@@ -5,8 +5,7 @@ tags:
 - tag2
 ---
 
-## "Project Name"
-
+## EGR 314 Team 204 Embedded Systems Design
 
 ## Team 204
 
