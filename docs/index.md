@@ -7,28 +7,25 @@ tags:
 
 ## EGR 314 Team 204 Embedded Systems Design
 
-## Team 204
+### Team 204
+#### Team members and individual websites
+| Team member | Individual website |
+| Andrey Podoprigora |  |
+| Divine Ndionyenma |  |
+| Jacob Wilson |  |
+| Jake Strube | https://jakestrube.github.io/ |
 
-## Team members
-
- - Andrey Podoprigora
- - Divine Ndionyenma
- - Jacob Wilson
- - Jake Strube
-
-## Organizational info
+#### Organizational info
 Arizona State University
-
 Spring 2025
-
 EGR 314
-
 Professor Daniel Aukes
 
-## Documentation
+#### Documentation
 
 - [Team Orgnaization](Team_Organization)
 - [Ideation and Concept Generation](Concept_Ideation)
+- [Team Block Diagram and Communication](Team_Block_Diagram_and_Communication)
 
 
 

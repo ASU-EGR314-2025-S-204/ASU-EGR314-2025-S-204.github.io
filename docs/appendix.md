@@ -4,7 +4,7 @@ title: Appendix
 
 Table 1: Team Member Communication Modes
 
-name | First Choice Communication | Second Choice Commmunication
+Name | First Choice Communication | Second Choice Commmunication
 -----|----------------------------|------------------------------
 Andrey Podoprigora | Discord | Phone
 Divine Ndionyenma | Discord | Phone
