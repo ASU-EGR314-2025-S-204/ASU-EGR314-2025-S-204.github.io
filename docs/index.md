@@ -10,6 +10,7 @@ tags:
 ### Team 204
 #### Team members and individual websites
 | Team member | Individual website |
+|-------------|--------------------|
 | Andrey Podoprigora |  |
 | Divine Ndionyenma |  |
 | Jacob Wilson |  |
