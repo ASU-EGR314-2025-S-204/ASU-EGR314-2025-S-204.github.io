@@ -15,11 +15,11 @@ title: Home page
 
 #### Organizational info
 Arizona State University
---------
+
 Spring 2025
---------
+
 EGR 314
---------
+
 Professor Daniel Aukes
 
 #### Documentation
