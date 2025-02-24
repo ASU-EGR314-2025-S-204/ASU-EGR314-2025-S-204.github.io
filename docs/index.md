@@ -11,10 +11,10 @@ tags:
 #### Team members and individual websites
 | Team member | Individual website |
 |-------------|--------------------|
-| Andrey Podoprigora |  |
-| Divine Ndionyenma |  |
-| Jacob Wilson |  |
-| Jake Strube | https://jakestrube.github.io/ |
+| Andrey Podoprigora | [Andrey's Website]() |
+| Divine Ndionyenma | [Divine's Website]() |
+| Jacob Wilson | [Jacob's Website]() |
+| Jake Strube | [Jake's Website](https://jakestrube.github.io/) |
 
 #### Organizational info
 Arizona State University
