@@ -1,8 +1,5 @@
 ---
 title: Home page
-tags:
-- tag1
-- tag2
 ---
 
 ## EGR 314 Team 204 Embedded Systems Design
@@ -18,8 +15,11 @@ tags:
 
 #### Organizational info
 Arizona State University
+--------
 Spring 2025
+--------
 EGR 314
+--------
 Professor Daniel Aukes
 
 #### Documentation
