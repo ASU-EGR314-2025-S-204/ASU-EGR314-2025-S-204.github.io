@@ -5,7 +5,7 @@ title: Home page
 ## EGR 314 Team 204 Embedded Systems Design
 
 ### Team 204
-#### Team members and individual websites
+#### Team members and their individual websites
 | Team member | Individual website |
 |-------------|--------------------|
 | Andrey Podoprigora | [Andrey's Website](https://lordandrey17.github.io/andreypodoprigora.github.io/) |
