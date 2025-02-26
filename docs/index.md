@@ -26,7 +26,7 @@ Professor Daniel Aukes
 
 - [Team Orgnaization](Team_Organization)
 - [Ideation and Concept Generation](Concept_Ideation)
-- [Team Block Diagram and Communication](Team_Block_Diagram_and_Communication)
+- [Block Diagram and Communication](Team_Block_Diagram_and_Communication)
 
 
 
