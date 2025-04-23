@@ -599,6 +599,13 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#message-protocol" class="md-nav__link">
+    Message protocol
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -643,6 +650,37 @@
 <h2 id="3-message-types">3) Message Types</h2>
 <p>Below is a combination of diagrams describing different types of messages that are being sent between individual boards</p>
 <p><a class="glightbox" href="Mes_Str.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="diagram_03" src="Mes_Str.png" title="Message types" /></a></p>
+<h2 id="message-protocol">Message protocol</h2>
+<table>
+<thead>
+<tr>
+<th>Message Type</th>
+<th>Message ID (Char)</th>
+<th>Andrey: Sensor ID: A</th>
+<th>Jacob: Motor ID: W</th>
+<th>Jake: HMI ID: S</th>
+<th>Divine: MQTT ID: D</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Update motor speed</td>
+<td>4</td>
+<td>-</td>
+<td>R: (Update speed at which motors move)</td>
+<td>S: (HMI menu and button press) R:(Displayed on HMI)</td>
+<td>S: (mqtt topic: /EGR314/TEAM204/MOTORSPEED) R: (mqtt topic: /EGR314/TEAM204/MOTORSPEED)</td>
+</tr>
+<tr>
+<td>Update following distance</td>
+<td>5</td>
+<td>R: (update distance sensor wants to keep)</td>
+<td>-</td>
+<td>SS: (HMI menu and button press) R:(Displayed on HMI)</td>
+<td>S: (mqtt topic: /EGR314/TEAM204/DISTANCE) R: (mqtt topic: /EGR314/TEAM204/DISTANCE)</td>
+</tr>
+</tbody>
+</table>
 
 
 
