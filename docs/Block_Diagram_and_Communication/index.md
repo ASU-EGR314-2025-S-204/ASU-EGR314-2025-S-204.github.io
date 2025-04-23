@@ -38,7 +38,7 @@ Below is a combination of diagrams describing different types of messages that a
 
 
 
-## Message protocol
+## 4) Message protocol
 
 | Message Type | Message ID *(Char)* | Andrey Role: Sensor ID: *A* | Jacob Role: Motor ID:*W* | Jake  Role: HMI ID: *S* | Divine Role: MQTT ID: *D*|
 |--------------|------------|----------------------|--------------------|-----------------|-------------------|
@@ -46,5 +46,13 @@ Below is a combination of diagrams describing different types of messages that a
 | Update distance threshold | *3* | R: (update distance sensor wants to keep) | - | S: (HMI menu and button press) | S: (mqtt topic: /EGR314/TEAM204/DISTANCE_SET) |
 | Update displayed motor speed | *4* | - | - | S: (HMI menu and button press) R:(Displayed on HMI) | S: (mqtt topic: /EGR314/TEAM204/MOTORSPEED) R: (mqtt topic: /EGR314/TEAM204/MOTORSPEED)|
 | Update displayed sensor distance | *5* | S: (Sensor Value) | - | R:(Displayed on HMI) | R: (mqtt topic: /EGR314/TEAM204/DISTANCE_VALUE) |
+
+
+
+| KEY | Meaning |
+| --- | ------- |
+| S | Sender |
+| R | Reciever |
+| - | Pass message |
 
 
