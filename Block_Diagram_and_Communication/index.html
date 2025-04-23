@@ -664,7 +664,15 @@
 </thead>
 <tbody>
 <tr>
-<td>Update motor speed</td>
+<td>Move motor</td>
+<td><em>1</em></td>
+<td>S: ()</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Update motor set speed</td>
 <td><em>2</em></td>
 <td>-</td>
 <td>R: (Update speed at which motors move)</td>
@@ -677,7 +685,7 @@
 <td>R: (update distance sensor wants to keep)</td>
 <td>-</td>
 <td>S: (HMI menu and button press)</td>
-<td>S: (mqtt topic: /EGR314/TEAM204/DISTANCE)</td>
+<td>S: (mqtt topic: /EGR314/TEAM204/DISTANCE_SET)</td>
 </tr>
 <tr>
 <td>Update displayed motor speed</td>
@@ -688,12 +696,12 @@
 <td>S: (mqtt topic: /EGR314/TEAM204/MOTORSPEED) R: (mqtt topic: /EGR314/TEAM204/MOTORSPEED)</td>
 </tr>
 <tr>
-<td>Update displayed following distance</td>
+<td>Update displayed sensor distance</td>
 <td><em>5</em></td>
+<td>S: (Sensor Value)</td>
 <td>-</td>
-<td>-</td>
-<td>S: (HMI menu and button press) R:(Displayed on HMI)</td>
-<td>S: (mqtt topic: /EGR314/TEAM204/DISTANCE) R: (mqtt topic: /EGR314/TEAM204/DISTANCE)</td>
+<td>R:(Displayed on HMI)</td>
+<td>R: (mqtt topic: /EGR314/TEAM204/DISTANCE_VALUE)</td>
 </tr>
 </tbody>
 </table>
