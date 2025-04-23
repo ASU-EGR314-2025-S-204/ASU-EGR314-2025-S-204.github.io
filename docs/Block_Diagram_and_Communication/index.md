@@ -34,3 +34,15 @@ Below is a combination of diagrams describing different types of messages that a
 ![diagram_03](Mes_Str.png "Message types")
 
 
+
+
+
+
+## Message protocol
+
+| Message Type | Message ID (Char) | Andrey: Sensor ID: A | Jacob: Motor ID: W | Jake: HMI ID: S | Divine: MQTT ID: D|
+|--------------|------------|----------------------|--------------------|-----------------|-------------------|
+| Update motor speed | 4 | - | R: (Update speed at which motors move) | S: (HMI menu and button press) R:(Displayed on HMI) | S: (mqtt topic: /EGR314/TEAM204/MOTORSPEED) R: (mqtt topic: /EGR314/TEAM204/MOTORSPEED)|
+| Update following distance | 5 | R: (update distance sensor wants to keep) | - | SS: (HMI menu and button press) R:(Displayed on HMI) | S: (mqtt topic: /EGR314/TEAM204/DISTANCE) R: (mqtt topic: /EGR314/TEAM204/DISTANCE) |
+
+
