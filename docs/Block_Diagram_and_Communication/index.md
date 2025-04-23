@@ -42,9 +42,10 @@ Below is a combination of diagrams describing different types of messages that a
 
 | Message Type | Message ID *(Char)* | Andrey Role: Sensor ID: *A* | Jacob Role: Motor ID:*W* | Jake  Role: HMI ID: *S* | Divine Role: MQTT ID: *D*|
 |--------------|------------|----------------------|--------------------|-----------------|-------------------|
-| Update motor speed | *2* | - | R: (Update speed at which motors move) | S: (HMI menu and button press) | S: (mqtt topic: /EGR314/TEAM204/MOTORSPEED) |
-| Update distance threshold | *3* | R: (update distance sensor wants to keep) | - | S: (HMI menu and button press) | S: (mqtt topic: /EGR314/TEAM204/DISTANCE) |
+| Move motor | *1* | S: ()
+| Update motor set speed | *2* | - | R: (Update speed at which motors move) | S: (HMI menu and button press) | S: (mqtt topic: /EGR314/TEAM204/MOTORSPEED) |
+| Update distance threshold | *3* | R: (update distance sensor wants to keep) | - | S: (HMI menu and button press) | S: (mqtt topic: /EGR314/TEAM204/DISTANCE_SET) |
 | Update displayed motor speed | *4* | - | - | S: (HMI menu and button press) R:(Displayed on HMI) | S: (mqtt topic: /EGR314/TEAM204/MOTORSPEED) R: (mqtt topic: /EGR314/TEAM204/MOTORSPEED)|
-| Update displayed following distance | *5* | - | - | S: (HMI menu and button press) R:(Displayed on HMI) | S: (mqtt topic: /EGR314/TEAM204/DISTANCE) R: (mqtt topic: /EGR314/TEAM204/DISTANCE) |
+| Update displayed sensor distance | *5* | S: (Sensor Value) | - | R:(Displayed on HMI) | R: (mqtt topic: /EGR314/TEAM204/DISTANCE_VALUE) |
 
 
