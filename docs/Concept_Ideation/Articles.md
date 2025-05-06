@@ -2,8 +2,6 @@
 title: Learning About Creating Science Exhibits
 ---
 
-Created: 1/27/2025
-
 ### Articles
 
 - [Suggested Guidelines for Desinging Interactive Exhbits](Suggested_Guidlines_for_Designing_Interactive_Exhibits.pdf)

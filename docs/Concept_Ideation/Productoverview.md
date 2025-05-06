@@ -2,8 +2,6 @@
 title: Product Overview
 ---
 
-Created: 1/27/2025
-
 ## Device Description
 
 

@@ -6,12 +6,12 @@ title: Home page
 
 ### Team 204
 #### Team members and their individual websites
-| Team member | Individual website |
-|-------------|--------------------|
-| Andrey Podoprigora | [Andrey's Website](https://lordandrey17.github.io/andreypodoprigora.github.io/) |
-| Divine Ndionyenma | [Divine's Website](https://d-ndionye.github.io/) |
-| Jacob Wilson | [Jacob's Website](https://jaykee-5x5.github.io/) |
-| Jake Strube | [Jake's Website](https://jakestrube.github.io/) |
+| Team member | Individual website | Subsystem |
+|-------------|--------------------| --------- |
+| Andrey Podoprigora | [Andrey's Website](https://lordandrey17.github.io/andreypodoprigora.github.io/) | Sensor Subsystem |
+| Divine Ndionyenma | [Divine's Website](https://d-ndionye.github.io/) | MQTT Subsystem |
+| Jacob Wilson | [Jacob's Website](https://jaykee-5x5.github.io/) | Actuator Subsystem |
+| Jake Strube | [Jake's Website](https://jakestrube.github.io/) | HMI Subsystem |
 
 #### Organizational info
 Arizona State University<br>

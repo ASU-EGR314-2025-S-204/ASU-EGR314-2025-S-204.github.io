@@ -2,15 +2,12 @@
 title: Product Mission Statement
 ---
 
-Created: 1/17/2025
-
-
 ## Product Mission Statement
 
 ### Our Product Offering
 Our teamwork is centered around developing the devices that can provide interaction with certain physical processes related to solid and liquid body mechanics, supporting a well-defined “control-feedback” loop. As an important part of design process, we will also ensure that our products will be easy to setup and maintain by the sole effort of the end user
 
-### Out Core Values 
+### Our Core Values 
 We want to contribute to facilitating physical education across middle and high schools. In this manner, the devices of our team should be able to provide interactive learning and exploration of the selected mechanical processes and phenomena. Along with this, we keen to reach smooth and intuitive user experience for our products
 
 ### Offering and values

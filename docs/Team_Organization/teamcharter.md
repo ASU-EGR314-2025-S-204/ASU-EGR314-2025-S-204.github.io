@@ -2,8 +2,6 @@
 title: Team Charter
 ---
 
-Created: 1/17/2025
-
 ## Team Goals
 
 
