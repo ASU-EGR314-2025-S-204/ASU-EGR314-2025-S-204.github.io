@@ -29,6 +29,9 @@ Our project is a robot that can keep a designated distance from an object in fro
 - [Team Orgnaization](Team_Organization)
 - [Ideation and Concept Generation](Concept_Ideation)
 - [Block Diagram and Communication](Block_Diagram_and_Communication)
+- [Innovation Showcase Poster](Innovation_Showcase/index.md)
+- [Reflection](Reflection/index.md)
+- [Resources](Resources/index.md)
 - [Appendix](appendix.md)
 
 
