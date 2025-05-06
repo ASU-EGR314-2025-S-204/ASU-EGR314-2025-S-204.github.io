@@ -8,6 +8,12 @@ Below are the CAD files that our team used to 3D model and 3D print our device a
 - [Robot Dome zip Folder](Robot_Dome.zip)
 #### Dome Top
 - [Dome Top zip Folder](Dome_Top.zip)
+#### Bottom Platfrom
+- [Bottom Platfrom zip Folder](Bottom_Platform.zip)
+#### Battery Bottom Cover
+- [Battery Bottom Cover zip Folder](Battery_Bottom_Cover.zip)
+#### Supporting Wheels Fixator
+- [Supporting Wheels Fixator zip Folder](Suppoting_Wheel_Fixator.zip)
 #### PCB Supports
 - [PCB Supports zip Folder](PCB_Supports.zip)
 #### Custom Button
